@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://cadexpertske.vercel.app/blog](https://cadexpertske.vercel.app/blog)
 
-- 💬 Ask me about **Electronic & Engineering plus Mechanical Design**
+- 💬 Ask me about **Electronic & Computer Engineering plus Mechanical Design**
 
 - 📫 How to reach me **keenanwekesa@gmail.com**
 
