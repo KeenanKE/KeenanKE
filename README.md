@@ -90,8 +90,8 @@ Electronic & Computer Engineering combined with Mechanical Design
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=keenanke&show_icons=true&locale=en&title_color=6B8E23&text_color=F5F5DC&bg_color=2F4F2F&icon_color=6B8E23&custom_title=GitHub%20Stats&font=aneka_devanagari" alt="keenanke" width="495" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=keenanke&theme=default&ring=6B8E23&fire=6B8E23&currStreakLabel=F5F5DC&background=2F4F2F&font=aneka_devanagari" alt="keenanke" width="495" />
+<img src="https://github-readme-stats.vercel.app/api?username=keenanke&show_icons=true&locale=en&title_color=6B8E23&text_color=F5F5DC&bg_color=2F4F2F&icon_color=6B8E23&custom_title=GitHub%20Stats" alt="keenanke" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keenanke&theme=default&ring=6B8E23&fire=6B8E23&currStreakLabel=F5F5DC&background=2F4F2F" alt="keenanke" height="180" />
 </p>
 
 </div>
