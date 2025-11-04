@@ -1,33 +1,74 @@
-<h1 align="center">Hi 👋, I'm Keenan Wekesa</h1>
-<h3 align="center">I'm a Product Designer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keenanke&label=Profile%20views&color=0e75b6&style=flat" alt="keenanke" /> </p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=6B8E23&height=200&section=header&text=Keenan%20Wekesa&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Product%20Designer%20|%20Electronic%20Engineer&descAlignY=55&descSize=20&fontFamily=Aneka%20Devanagari)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keenanke" alt="keenanke" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=keenanke&label=Profile%20views&color=6B8E23&style=flat" alt="keenanke" />
 
-- 🔭 I’m currently working on **microcontrollers & automation**
+</div>
 
-- 🌱 I’m currently learning **PCB and Industrial Design**
+---
 
-- 👨‍💻 All of my projects are available at [https://resume-v9dr.onrender.com/](https://resume-v9dr.onrender.com/)
+<div style="font-family: 'Aneka Devanagari', serif;">
 
-- 📝 I regularly write articles on [https://cadexpertske.vercel.app/blog](https://cadexpertske.vercel.app/blog)
+## 👋 About
 
-- 💬 Ask me about **Electronic & Computer Engineering plus Mechanical Design**
+Currently working on microcontrollers and automation systems while expanding expertise in PCB and Industrial Design.
 
-- 📫 How to reach me **keenanwekesa@gmail.com**
+## 🎯 Expertise
 
-- 📄 Know about my experiences [https://resume-v9dr.onrender.com/](https://resume-v9dr.onrender.com/)
+Electronic & Computer Engineering combined with Mechanical Design
 
-<h3 align="left">Connect with me:</h3>
+## 🚀 Featured Projects
+
+### 🌟 [Explore All Projects →](https://cadexpertske.vercel.app/)
+
+| # | Project | Description |
+|---|---------|-------------|
+| **1** | **High‑Density PCB Layout & Signal Integrity Optimization** | Developed a multi‑layer PCB design for a compact industrial controller using KiCAD/Altium.<br>Responsibilities included schematic capture, component footprint creation, layout of differential pairs, impedance control, and review of manufacturing files (Gerbers, BOMs).<br>Achieved a 40% reduction in board area and improved signal integrity for high‑speed interfaces. |
+| **2** | **3D CAD Model & Sheet‑Metal Enclosure Design** | Created a fully parametric 3D model in SolidWorks/Fusion 360 and designed the corresponding sheet‑metal enclosure for the PCB above.<br>The project included simulation of thermal dissipation using ANSYS, ensuring proper heat flow and manufacturability.<br>Delivered STEP/IGES files and manufacturing drawings. |
+| **3** | **Mechanical & Thermal Finite Element Analysis (FEA) for Embedded Module** | Conducted both structural and thermal FEA on the assembled device using ANSYS Workbench.<br>Validated mounting points, vibration tolerance (3 g in each axis) and thermal profile for an embedded electronics module operating in ambient –20 °C to +70 °C.<br>Recommendations were integrated into the design to enhance durability and reliability. |
+| **4** | **Prototype to Production Workflow – Design for Manufacturability (DFM) & BOM Optimization** | Led the transition from prototype to production for an electronic subsystem.<br>Tasks included DFM review, cost‑savings analysis via part consolidation, and creation of automated BOM/assembly documentation templates.<br>Reduced total part cost by 18% and standardized the build process for smoother manufacturing hand‑off. |
+
+
+## 📝 Portfolio & Writing
+
+**Portfolio:** [https://resume-v9dr.onrender.com/](https://resume-v9dr.onrender.com/)
+
+**Technical Blog:** [https://cadexpertske.vercel.app/blog](https://cadexpertske.vercel.app/blog)
+
+## 📫 Contact
+
+**Email:** [keenanwekesa@gmail.com](mailto:keenanwekesa@gmail.com)
+
+**LinkedIn:** [Keenan Wekesa](https://linkedin.com/in/keenan-wekesa)
+
+**Facebook:** [Keenan Wekesa](https://fb.com/keenan-wekesa)
+
+---
+
+## 🛠️ Technologies
+
 <p align="left">
-<a href="https://linkedin.com/in/keenan wekesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keenan wekesa" height="30" width="40" /></a>
-<a href="https://fb.com/keenan wekesa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keenan wekesa" height="30" width="40" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="80" alt="C++" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="80" alt="HTML5" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="80" alt="CSS3" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="80" alt="JavaScript" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="80" alt="Django" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keenanke&show_icons=true&locale=en&layout=compact" alt="keenanke" /></p>
+## 📊 GitHub Statistics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keenanke&show_icons=true&locale=en" alt="keenanke" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=keenanke&show_icons=true&locale=en&title_color=6B8E23&text_color=F5F5DC&bg_color=2F4F2F&icon_color=6B8E23&custom_title=GitHub%20Stats&font=aneka_devanagari" alt="keenanke" width="495" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keenanke&theme=default&ring=6B8E23&fire=6B8E23&currStreakLabel=F5F5DC&background=2F4F2F&font=aneka_devanagari" alt="keenanke" width="495" />
+</p>
+
+</div>
+
+---
