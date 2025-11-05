@@ -69,8 +69,6 @@ Electronic & Computer Engineering combined with Mechanical Design
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" alt="Raspberry Pi" />
 <img width="12" />
-</p>
-<p align="left">
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
 </p>
 
