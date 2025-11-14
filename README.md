@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=6B8E23&height=200&section=header&text=Keenan%20Wekesa&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Hardware%20&%20Designer%20&descAlignY=55&descSize=20&fontFamily=Aneka%20Devanagari)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=6B8E23&height=200&section=header&text=Keenan%20Wekesa&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Hardware%20&Firmware%20Designer%20&descAlignY=55&descSize=20&fontFamily=Aneka%20Devanagari)
 
 <img src="https://komarev.com/ghpvc/?username=keenanke&label=Profile%20views&color=6B8E23&style=flat" alt="keenanke" />
 
